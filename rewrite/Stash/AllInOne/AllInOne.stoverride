@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-07-20 02:14:22
+desc: 最后更新时间 2024-07-27 02:14:59
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 672
-# mitm: 707
+# reject: 677
+# mitm: 711
 # force-http-engine-hosts: 6
-# total: 1424
+# total: 1433
 
 
 
@@ -237,6 +237,7 @@ http:
     - ^https?:\/\/api\.medlive\.cn\/promotion-api/adlist - reject
     - ^https?:\/\/api\.merach\.com\/app\/AppAdvertisingController\/getAdvert - reject
     - ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
+    - ^https?:\/\/api\.moomoo\.com(\/v\d)?\/ad - reject
     - ^https?:\/\/api\.psy-1\.com\/cosleep\/startup - reject
     - ^https?:\/\/api\.qbb6\.com\/ad\/ - reject
     - ^https?:\/\/api\.qiuduoduo\.cn\/guideimage - reject
@@ -260,6 +261,7 @@ http:
     - ^https?:\/\/api\.yikaobang\.com\.cn\/index\.php\/Client\/main\/startPage - reject
     - ^https?:\/\/api\.yizhibo\.com\/common\/api\/(api_)?pz$ - reject
     - ^https?:\/\/api\.yonghuivip\.com\/web\/shensuan\/ad\/getAd - reject
+    - ^https?:\/\/api\.ys7\.com.*\/getAdvertising - reject
     - ^https?:\/\/api\.zhihu\.com\/(notifications\/v\d\/count) - reject
     - ^https?:\/\/api\.zhihu\.com\/ab\/api\/v1\/products\/zhihu\/platforms\/ios\/config - reject
     - ^https?:\/\/api\.zhihu\.com\/ad-style-service\/request - reject
@@ -363,6 +365,7 @@ http:
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn\/ - reject
     - ^https?:\/\/comicapi\.manhuashe\.com\/v\d\/(ads\/adstrategys|public\/startupactivity) - reject
     - ^https?:\/\/compus\.xiaofubao\.com\/compus\/advertising - reject
+    - ^https?:\/\/cq11344-app-https-api-1\.ictun\.com:443\/api\/app\/v\d\/appad - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.cn\/mappweb_interface\/common\/(qryPopAds|qryLaunchAds)\.do - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/getPopAds\.do$ - reject
     - ^https?:\/\/creditcardapp\.bankcomm\.com\/mapp\/common\/queryGuidePageAds\.do - reject
@@ -426,6 +429,7 @@ http:
     - ^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/(banner|myTab|openingBanner) - reject
     - ^https?:\/\/home\.mi\.com\/cgi-op\/api\/v\d\/recommendation\/banner - reject
     - ^https?:\/\/homefront\.qunar\.com\/front\/splash\/ad - reject
+    - ^https?:\/\/hxqapi\.hiyun\.tv\/api\/notification\/plans - reject
     - ^https?:\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+?_\d{3}x\d{4} - reject
     - ^https?:\/\/i\.ys7\.com\/api\/ads - reject
     - ^https?:\/\/i\d\.hoopchina\.com\.cn/blogfile\/\d+\/\d+\/BbsImg\.(?<=(big.(png|jpg)))$ - reject
@@ -471,6 +475,7 @@ http:
     - ^https?:\/\/lchttpapi\.xczim\.com\/1\.1\/functions\/getLaunchImageForIOS - reject
     - ^https?:\/\/learn\.chaoxing\.com\/apis\/service\/appConfig\? - reject
     - ^https?:\/\/list-app-m\.i4\.cn\/getopfstadinfo\.xhtml - reject
+    - ^https?:\/\/m-adphone\.wenhua\.com\.cn\/ - reject
     - ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ - reject
     - ^https?:\/\/m\.ads\.8le8le\.com\/adShow - reject
     - ^https?:\/\/m\.caijing\.com\.cn\/startup_ad_ios\.html$ - reject
@@ -1042,6 +1047,7 @@ http:
     - "api.medlive.cn"
     - "api.merach.com"
     - "api.mgzf.com"
+    - "api.moomoo.com"
     - "api.mwee.cn"
     - "api.pinduoduo.com"
     - "api.psy-1.com"
@@ -1174,6 +1180,7 @@ http:
     - "common.diditaxi.com.cn"
     - "compus.xiaofubao.com"
     - "conf.diditaxi.com.cn"
+    - "cq11344-app-https-api-1.ictun.com"
     - "creditcardapp.bankcomm.cn"
     - "creditcardapp.bankcomm.com"
     - "ct.xiaojukeji.com"
@@ -1254,6 +1261,7 @@ http:
     - "homefront.qunar.com"
     - "htwkop.xiaojukeji.com"
     - "hwimg.beingfine.cn"
+    - "hxqapi.hiyun.tv"
     - "hypersnap.mairuan.com"
     - "i*.hoopchina.com.cn"
     - "i.ys7.com"
@@ -1300,6 +1308,7 @@ http:
     - "list-app-m.i4.cn"
     - "logoshejishi.mairuan.com"
     - "m*.amap.com"
+    - "m-adphone.wenhua.com.cn"
     - "m-cloud.zhihu.com"
     - "m.ads.8le8le.com"
     - "m.caijing.com.cn"
