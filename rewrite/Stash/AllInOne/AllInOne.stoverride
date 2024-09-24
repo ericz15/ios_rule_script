@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-09-19 02:15:48
+desc: 最后更新时间 2024-09-24 02:15:55
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 690
+# reject: 691
 # mitm: 725
 # force-http-engine-hosts: 6
-# total: 1460
+# total: 1461
 
 
 
@@ -246,6 +246,7 @@ http:
     - ^https?:\/\/api\.qbb6\.com\/ad\/ - reject
     - ^https?:\/\/api\.qiuduoduo\.cn\/guideimage - reject
     - ^https?:\/\/api\.rr\.tv\/ad\/ - reject
+    - ^https?:\/\/api\.smart\.jd\.com\/c\/service\/getLoadingLinks - reject
     - ^https?:\/\/api\.taou\.com\/sdk\/global\/splash_ad - reject
     - ^https?:\/\/api\.tipsoon\.com\/api\/v\d\/top\/ad - reject
     - ^https?:\/\/api\.touker\.com\/v2\/IAdvertisementAPI\.queryStartAdvertisement - reject
@@ -923,7 +924,6 @@ http:
     - "*.chelaile.net.cn"
     - "*.chelaileapp.cn"
     - "*.cupid.iqiyi.com"
-    - "*.dcloud.net.cn"
     - "*.ddly666.top"
     - "*.didapinche.com"
     - "*.ecoliving168.com"
@@ -1073,6 +1073,7 @@ http:
     - "api.rr.tv"
     - "api.sfacg.com"
     - "api.shenyin.name"
+    - "api.smart.jd.com"
     - "api.sodalife.xyz"
     - "api.songguo7.com"
     - "api.taou.com"

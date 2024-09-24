@@ -1,11 +1,11 @@
 name: 复写去广告
-desc: 最后更新时间 2024-09-19 02:15:44
+desc: 最后更新时间 2024-09-24 02:15:50
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 722
+# reject: 724
 # mitm: 678
 # force-http-engine-hosts: 6
-# total: 1406
+# total: 1408
 
 
 
@@ -15,6 +15,7 @@ http:
   rewrite:
     - ^http:\/\/.*aastocks\.com\/ad\/ - reject
     - ^http:\/\/.*babytree\.com/(plough\.do|go_search\/api\/mobile_search_new\/get_multi_search_default_keywords) - reject
+    - ^http:\/\/ads.?s?ervice(retry)?\.(kugou|kglink).(com|cn)\/v\d\/ - reject
     - ^http:\/\/gateway2\.etnet\.com\.hk\/etnetApp\/theme\/seasonal\/v30\/theme.json - reject
     - ^http:\/\/m\.meitun\.com\/newapi\/router\/topic\/hometptf\/feedRecommend - reject
     - ^https:\/\/3pp\.starbucks\.com\.cn\/wxmem\/index\/banner - reject
@@ -263,6 +264,7 @@ http:
     - ^https?:\/\/api\.qbb6\.com\/ad\/ - reject
     - ^https?:\/\/api\.qiuduoduo\.cn\/guideimage - reject
     - ^https?:\/\/api\.rr\.tv\/ad\/ - reject
+    - ^https?:\/\/api\.smart\.jd\.com\/c\/service\/getLoadingLinks - reject
     - ^https?:\/\/api\.taou\.com\/sdk\/global\/splash_ad - reject
     - ^https?:\/\/api\.tipsoon\.com\/api\/v\d\/top\/ad - reject
     - ^https?:\/\/api\.touker\.com\/v2\/IAdvertisementAPI\.queryStartAdvertisement - reject
@@ -752,7 +754,6 @@ http:
     - "*.bdstatic.com"
     - "*.chelaile.net.cn"
     - "*.chelaileapp.cn"
-    - "*.dcloud.net.cn"
     - "*.ddly666.top"
     - "*.didapinche.com"
     - "*.ecoliving168.com"
@@ -908,6 +909,7 @@ http:
     - "api.rr.tv"
     - "api.sfacg.com"
     - "api.shenyin.name"
+    - "api.smart.jd.com"
     - "api.sodalife.xyz"
     - "api.songguo7.com"
     - "api.taou.com"
