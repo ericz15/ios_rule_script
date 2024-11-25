@@ -21,19 +21,19 @@
 
 ## 规则统计
 
-最后更新时间：2024-11-23 02:11:00
+最后更新时间：2024-11-25 02:10:20
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | AND | 3  | 
-| DOMAIN | 16326  | 
+| DOMAIN | 16325  | 
 | DOMAIN-KEYWORD | 262  | 
-| DOMAIN-SUFFIX | 165758  | 
+| DOMAIN-SUFFIX | 165811  | 
 | IP-CIDR | 479  | 
 | IP-CIDR6 | 1  | 
 | URL-REGEX | 12  | 
-| TOTAL | 182841  | 
+| TOTAL | 182893  | 
 
 
 ## Surge 
