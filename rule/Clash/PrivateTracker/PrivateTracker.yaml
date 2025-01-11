@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-09 02:13:32
+# UPDATED: 2025-01-11 02:13:29
 # DOMAIN: 152
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
@@ -28,13 +28,16 @@ payload:
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
+  - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
+  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,mikrotik2.draatman.net
   - DOMAIN,ns-1.x-fins.com
@@ -59,7 +62,6 @@ payload:
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
-  - DOMAIN,rfc5746.mywaifu.best
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
@@ -75,15 +77,14 @@ payload:
   - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.burnabyhighstar.com
-  - DOMAIN,tr.movian.eu
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr1.aag.moe
   - DOMAIN,tr2.trkb.ru
+  - DOMAIN,tr3.ysagin.top
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
-  - DOMAIN,tracker-us.silksa.co.za
   - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.0x7c0.com
   - DOMAIN,tracker.aburaya.live
@@ -103,7 +104,6 @@ payload:
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
-  - DOMAIN,tracker.draatman.uk
   - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
@@ -121,6 +121,7 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
+  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pmman.tech
@@ -130,7 +131,6 @@ payload:
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
-  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
