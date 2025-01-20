@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-01-18 02:13:07
-# DOMAIN: 133
+# UPDATED: 2025-01-20 02:12:42
+# DOMAIN: 130
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 263
+# TOTAL: 260
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
@@ -22,6 +22,7 @@ payload:
   - DOMAIN,buny.uk
   - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
+  - DOMAIN,cq.kmzs123.cn
   - DOMAIN,d40969.acod.regrucolo.ru
   - DOMAIN,discord.heihachi.pw
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
@@ -29,6 +30,7 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,finbytes.org
+  - DOMAIN,fleira.no
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
@@ -36,7 +38,6 @@ payload:
   - DOMAIN,ipv6.rer.lol
   - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
-  - DOMAIN,leet-tracker.moe
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,ns-1.x-fins.com
   - DOMAIN,nyaa.tracker.wf
@@ -56,7 +57,7 @@ payload:
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
-  - DOMAIN,rfc5746.mywaifu.best
+  - DOMAIN,retracker.x2k.ru
   - DOMAIN,seeders-paradise.org
   - DOMAIN,servandroidkino.ru
   - DOMAIN,share.hkg-fansub.info
@@ -83,7 +84,6 @@ payload:
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
-  - DOMAIN,tracker.corpscorp.online
   - DOMAIN,tracker.cyberia.is
   - DOMAIN,tracker.darkness.services
   - DOMAIN,tracker.deadorbit.nl
@@ -99,6 +99,7 @@ payload:
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.kmzs123.tk
   - DOMAIN,tracker.kuroy.me
+  - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.lintk.me
   - DOMAIN,tracker.moeking.me
@@ -131,13 +132,9 @@ payload:
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,tracker810.xyz
-  - DOMAIN,trackers.mlsub.net
   - DOMAIN,ttk2.nbaonlineservice.com
-  - DOMAIN,u4.trakx.crim.ist
   - DOMAIN,u6.trakx.crim.ist
-  - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,wepzone.net
-  - DOMAIN,www.all4nothin.net
   - DOMAIN,www.genesis-sp.org
   - DOMAIN,www.torrent.eu.org
   - DOMAIN,www.torrentsnipe.info
