@@ -1,7 +1,7 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-15 02:13:28
+# UPDATED: 2025-02-17 02:12:25
 # DOMAIN: 133
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
@@ -22,7 +22,6 @@ payload:
   - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -52,7 +51,6 @@ payload:
   - DOMAIN,opentracker.io
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
-  - DOMAIN,r.l5.ca
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
@@ -66,8 +64,8 @@ payload:
   - DOMAIN,t.overflow.biz
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
+  - DOMAIN,torrent.tracker.durukanbal.com
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
@@ -75,10 +73,8 @@ payload:
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.dgj055.icu
   - DOMAIN,tracker.0x7c0.com
-  - DOMAIN,tracker.aburaya.live
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bjut.jp
-  - DOMAIN,tracker.breizh.pm
   - DOMAIN,tracker.bt-hash.com
   - DOMAIN,tracker.bt4g.com
   - DOMAIN,tracker.bz
@@ -99,14 +95,16 @@ payload:
   - DOMAIN,tracker.ipv6tracker.org
   - DOMAIN,tracker.ipv6tracker.ru
   - DOMAIN,tracker.kmzs123.cn
-  - DOMAIN,tracker.kmzs123.top
+  - DOMAIN,tracker.kmzs123.com
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leechshield.link
   - DOMAIN,tracker.lilithraws.org
   - DOMAIN,tracker.lintk.me
+  - DOMAIN,tracker.linvk.com
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
+  - DOMAIN,tracker.nanoha.org
   - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
@@ -120,12 +118,14 @@ payload:
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
+  - DOMAIN,tracker.valete.tf
   - DOMAIN,tracker.vanitycore.co
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz
   - DOMAIN,tracker.yemekyedim.com
   - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker1.520.jp
+  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com

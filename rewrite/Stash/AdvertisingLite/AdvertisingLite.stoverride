@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2025-02-05 02:16:41
+desc: 最后更新时间 2025-02-17 02:15:27
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1188
-# mitm: 877
+# reject: 1190
+# mitm: 879
 # force-http-engine-hosts: 6
-# total: 2071
+# total: 2075
 
 
 
@@ -85,6 +85,7 @@ http:
     - ^https:\/\/midc\.cdn-static\.abchina\.com\.cn\/distributecenterimg\/file\/download\/bdfb4 - reject
     - ^https:\/\/minipro\.95504\.net\/app\/json\/ad\/getPopAdData - reject
     - ^https:\/\/mobile-api\.imlaidian\.com\/api\/args - reject
+    - ^https:\/\/mobile-consumer-sapp\.chery\.cn\/web\/position\/getShowList\?displayPlatform=1&tabType=0& - reject
     - ^https:\/\/mobileapi\.ly\.com\/wlfrontend\/app\/scenicMain - reject
     - ^https:\/\/mobileapi\.xiamenair\.com\/mobile-starter - reject
     - ^https:\/\/mobilehotelapi\.elong\.com\/appHotel\/adx\/advert\/getAdvert - reject
@@ -986,6 +987,7 @@ http:
     - ^https?:\/\/sdk1xyajs\.data\.kuiniuca\.com - reject
     - ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/.*?\/v\d\/(version|top_notice\?|advert\?position=[^2]+) - reject
     - ^https?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/version - reject
+    - ^https?:\/\/sdk\.tianmu\.mobi\/ad - reject
     - ^https?:\/\/service\.4gtv\.tv\/4gtv\/Data\/(GetAD|ADLog) - reject
     - ^https?:\/\/service\.busi\.inke\.cn\/api\/flash\/screen - reject
     - ^https?:\/\/service\.iciba\.com\/popo\/open\/screens\/v\d\?adjson - reject
@@ -1790,6 +1792,7 @@ http:
     - "mobads-pre-config.cdn.bcebos.com"
     - "mobads.baidu.com"
     - "mobile-api.imlaidian.com"
+    - "mobile-consumer-sapp.chery.cn"
     - "mobile-pic.cache.iciba.com"
     - "mobile.1qianbao.com"
     - "mobile.api.mgtv.com"
@@ -1923,6 +1926,7 @@ http:
     - "saad.ms.zhangyue.net"
     - "scdn.line-apps.com"
     - "sdk.alibaba.com.ailbaba.me"
+    - "sdk.tianmu.mobi"
     - "sdk1xyajs.data.kuiniuca.com"
     - "se-api.djiits.com"
     - "service.4gtv.tv"
