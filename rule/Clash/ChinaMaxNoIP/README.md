@@ -15,16 +15,16 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2025-03-22 02:14:48
+最后更新时间：2025-03-24 02:14:27
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 271  | 
+| DOMAIN | 263  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 97266  | 
+| DOMAIN-SUFFIX | 97579  | 
 | PROCESS-NAME | 14  | 
-| TOTAL | 97564  | 
+| TOTAL | 97869  | 
 
 
 ## Clash 
@@ -450,7 +450,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/stream_cn.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 
