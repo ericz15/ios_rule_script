@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-16 02:07:53
+# UPDATED: 2025-08-20 02:07:56
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31571
+# DOMAIN-SUFFIX: 31577
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31834
+# TOTAL: 31840
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -15733,7 +15733,6 @@ payload:
   - DOMAIN-SUFFIX,naughtysophie.com
   - DOMAIN-SUFFIX,naughtytugs.com
   - DOMAIN-SUFFIX,naughtywomenpics.com
-  - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,naver.me
   - DOMAIN-SUFFIX,naver.net
   - DOMAIN-SUFFIX,naverads.com
@@ -26604,6 +26603,7 @@ payload:
   - DOMAIN-SUFFIX,delicious.com
   - DOMAIN-SUFFIX,democrats.org
   - DOMAIN-SUFFIX,demosisto.hk
+  - DOMAIN-SUFFIX,deno.dev
   - DOMAIN-SUFFIX,depositphotos.com
   - DOMAIN-SUFFIX,desc.se
   - DOMAIN-SUFFIX,desipro.de
@@ -27281,6 +27281,7 @@ payload:
   - DOMAIN-SUFFIX,furhhdl.org
   - DOMAIN-SUFFIX,furinkan.com
   - DOMAIN-SUFFIX,furl.net
+  - DOMAIN-SUFFIX,furrybar.com
   - DOMAIN-SUFFIX,futurechinaforum.org
   - DOMAIN-SUFFIX,futuremessage.org
   - DOMAIN-SUFFIX,fux.com
@@ -28939,6 +28940,7 @@ payload:
   - DOMAIN-SUFFIX,nationsonline.org
   - DOMAIN-SUFFIX,nationwide.com
   - DOMAIN-SUFFIX,naughtyamerica.com
+  - DOMAIN-SUFFIX,naver.com
   - DOMAIN-SUFFIX,naver.jp
   - DOMAIN-SUFFIX,navy.mil
   - DOMAIN-SUFFIX,naweeklytimes.com
@@ -29309,6 +29311,7 @@ payload:
   - DOMAIN-SUFFIX,paljorpublications.com
   - DOMAIN-SUFFIX,palmislife.com
   - DOMAIN-SUFFIX,paltalk.com
+  - DOMAIN-SUFFIX,pancakeswap.finance
   - DOMAIN-SUFFIX,pandafan.pub
   - DOMAIN-SUFFIX,pandapow.co
   - DOMAIN-SUFFIX,pandapow.net
@@ -29384,6 +29387,7 @@ payload:
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,persecutionblog.com
   - DOMAIN-SUFFIX,persiankitty.com
+  - DOMAIN-SUFFIX,pewresearch.org
   - DOMAIN-SUFFIX,pfd.org.hk
   - DOMAIN-SUFFIX,phapluan.org
   - DOMAIN-SUFFIX,phayul.com
@@ -29527,6 +29531,7 @@ payload:
   - DOMAIN-SUFFIX,prisoneralert.com
   - DOMAIN-SUFFIX,pritunl.com
   - DOMAIN-SUFFIX,privacybox.de
+  - DOMAIN-SUFFIX,privacyguides.org
   - DOMAIN-SUFFIX,private.com
   - DOMAIN-SUFFIX,privateinternetaccess.com
   - DOMAIN-SUFFIX,privatepaste.com
@@ -30286,6 +30291,7 @@ payload:
   - DOMAIN-SUFFIX,suyangg.com
   - DOMAIN-SUFFIX,svsfx.com
   - DOMAIN-SUFFIX,swagbucks.com
+  - DOMAIN-SUFFIX,swapspace.co
   - DOMAIN-SUFFIX,swissinfo.ch
   - DOMAIN-SUFFIX,swissvpn.net
   - DOMAIN-SUFFIX,switch1.jp
