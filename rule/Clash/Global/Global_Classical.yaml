@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-09-28 04:42:43
+# UPDATED: 2026-10-04 04:29:12
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34775
+# DOMAIN-SUFFIX: 34783
 # IP-CIDR: 115
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 35059
+# TOTAL: 35067
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -6004,6 +6004,7 @@ payload:
   - DOMAIN-SUFFIX,classymomsex.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.dev
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
@@ -12482,6 +12483,7 @@ payload:
   - DOMAIN-SUFFIX,huanyuju.com
   - DOMAIN-SUFFIX,huarenav.com
   - DOMAIN-SUFFIX,huarenporn.com
+  - DOMAIN-SUFFIX,huarun.win
   - DOMAIN-SUFFIX,huashundg.com
   - DOMAIN-SUFFIX,huawen.ac.uk
   - DOMAIN-SUFFIX,huaxin-lls.xyz
@@ -16093,6 +16095,7 @@ payload:
   - DOMAIN-SUFFIX,messytube.com
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabolomics.ac.uk
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
@@ -18821,6 +18824,7 @@ payload:
   - DOMAIN-SUFFIX,openbook.org.tw
   - DOMAIN-SUFFIX,opencas.io
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,opencollective.com
   - DOMAIN-SUFFIX,opencreate.org
   - DOMAIN-SUFFIX,opendesktop.org
@@ -26173,7 +26177,6 @@ payload:
   - DOMAIN-SUFFIX,walker.ac.uk
   - DOMAIN-SUFFIX,wallberis.ru
   - DOMAIN-SUFFIX,wallet.com
-  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,walmart-content.com
   - DOMAIN-SUFFIX,walmart.com
   - DOMAIN-SUFFIX,walmart.pharmacy
@@ -26533,7 +26536,6 @@ payload:
   - DOMAIN-SUFFIX,wikifeet.com
   - DOMAIN-SUFFIX,wikihow.com
   - DOMAIN-SUFFIX,wikimediacloud.org
-  - DOMAIN-SUFFIX,wikimediafoundation.org
   - DOMAIN-SUFFIX,wikiporn.tv
   - DOMAIN-SUFFIX,wikisexguide.com
   - DOMAIN-SUFFIX,wilberes.ru
@@ -30319,6 +30321,7 @@ payload:
   - DOMAIN-SUFFIX,fututrustee.com
   - DOMAIN-SUFFIX,fux.com
   - DOMAIN-SUFFIX,fuyin.net
+  - DOMAIN-SUFFIX,fuyin116.com
   - DOMAIN-SUFFIX,fuyindiantai.org
   - DOMAIN-SUFFIX,fuyu.org.tw
   - DOMAIN-SUFFIX,fw.cm
@@ -31928,6 +31931,7 @@ payload:
   - DOMAIN-SUFFIX,mummysgold.com
   - DOMAIN-SUFFIX,murmur.tw
   - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,musicade.net
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,musixmatch.com
@@ -34370,6 +34374,7 @@ payload:
   - DOMAIN-SUFFIX,waiwaier.com
   - DOMAIN-SUFFIX,walletconnect.com
   - DOMAIN-SUFFIX,walletconnect.org
+  - DOMAIN-SUFFIX,wallhaven.cc
   - DOMAIN-SUFFIX,wallmama.com
   - DOMAIN-SUFFIX,wallornot.org
   - DOMAIN-SUFFIX,wallpapercasa.com
@@ -34489,6 +34494,7 @@ payload:
   - DOMAIN-SUFFIX,wikia.com
   - DOMAIN-SUFFIX,wikibooks.org
   - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikifunctions.org
   - DOMAIN-SUFFIX,wikileaks-forum.com
   - DOMAIN-SUFFIX,wikileaks.ch
   - DOMAIN-SUFFIX,wikileaks.com
@@ -34501,12 +34507,14 @@ payload:
   - DOMAIN-SUFFIX,wikilivres.info
   - DOMAIN-SUFFIX,wikimapia.org
   - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
   - DOMAIN-SUFFIX,wikinews.org
   - DOMAIN-SUFFIX,wikipedia.com
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikis.tw
   - DOMAIN-SUFFIX,wikisource.org
+  - DOMAIN-SUFFIX,wikispecies.org
   - DOMAIN-SUFFIX,wikiunblocked.org
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
